@@ -5,6 +5,10 @@ from interfaces.databaseinterface import DatabaseHelper
 import logging
 import time
 
+
+print("Hello world")
+
+
 ENABLED = 1
 DISABLED = 5 #if the sensor returns NOREADING more than 5 times in a row, its permanently 
 
